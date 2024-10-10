@@ -1,0 +1,10 @@
+C:\Users\arish\Downloads\ДЗ\Лаба_4\Лаба_4\bin\Debug\Лаба_4.exe.config
+C:\Users\arish\Downloads\ДЗ\Лаба_4\Лаба_4\bin\Debug\Лаба_4.exe
+C:\Users\arish\Downloads\ДЗ\Лаба_4\Лаба_4\bin\Debug\Лаба_4.pdb
+C:\Users\arish\Downloads\ДЗ\Лаба_4\Лаба_4\obj\Debug\Лаба_4.csproj.AssemblyReference.cache
+C:\Users\arish\Downloads\ДЗ\Лаба_4\Лаба_4\obj\Debug\Лаба_4.Form1.resources
+C:\Users\arish\Downloads\ДЗ\Лаба_4\Лаба_4\obj\Debug\Лаба_4.Properties.Resources.resources
+C:\Users\arish\Downloads\ДЗ\Лаба_4\Лаба_4\obj\Debug\Лаба_4.csproj.GenerateResource.cache
+C:\Users\arish\Downloads\ДЗ\Лаба_4\Лаба_4\obj\Debug\Лаба_4.csproj.CoreCompileInputs.cache
+C:\Users\arish\Downloads\ДЗ\Лаба_4\Лаба_4\obj\Debug\Лаба_4.exe
+C:\Users\arish\Downloads\ДЗ\Лаба_4\Лаба_4\obj\Debug\Лаба_4.pdb
